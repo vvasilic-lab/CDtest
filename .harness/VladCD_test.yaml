@@ -7,8 +7,8 @@ pipeline:
   stages:
     - stage1:
         name: Vladtest
-       // identifier: Vladtest
-        description: "This is Vlad"
+        identifier: Vladtest
+        description: This is Vlad
         type: Deployment
         spec:
           deploymentType: Kubernetes
