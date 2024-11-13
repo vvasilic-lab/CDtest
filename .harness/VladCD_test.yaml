@@ -5,7 +5,7 @@ pipeline:
   orgIdentifier: training_13thNov
   tags: {}
   stages:
-    - stage1:
+    - stage:
         name: Vladtest
         identifier: Vladtest
         description: This is Vlad
